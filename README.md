@@ -42,6 +42,10 @@ This project demonstrates practical knowledge of:
 ## Piece Images
 
 You’ll need the following PNGs in your `images/` folder:
+
+
+
+
 ![wb](https://github.com/user-attachments/assets/fcab4546-15c4-41e7-b00a-a20e72a53a02)
 ![br](https://github.com/user-attachments/assets/a5c67c52-84a3-4384-9f07-c3a168e0cc2e)
 ![bq](https://github.com/user-attachments/assets/d90a1e14-01ee-44a7-8484-f64842c0fc82)
