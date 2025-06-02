@@ -1,6 +1,6 @@
 # Chess Engine GUI
 
-A modern, lightweight chess engine with a graphical user interface (GUI), developed entirely in Python. Features AI opponent, real-time move analysis, and a clean, user-friendly interface. Designed for rapid play, academic demonstration, and portfolio use.
+A modern, lightweight chess engine with a graphical user interface (GUI), developed entirely in Python. Features AI opponent, real-time move analysis, and a clean, user-friendly interface. 
 
 ##  Features
 
