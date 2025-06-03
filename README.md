@@ -16,7 +16,6 @@ A modern, lightweight chess engine with a graphical user interface (GUI), develo
 ##  Academic Value
 
 This project demonstrates practical knowledge of:
-- Algorithmic thinking (AI search, evaluation functions)
 - Python programming (data structures, GUI, modularity)
 - Software design (clean code, user experience)
 - Application packaging and open-source workflow
